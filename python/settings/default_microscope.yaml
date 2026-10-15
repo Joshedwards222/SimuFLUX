@@ -15,7 +15,7 @@ sys:
   - gauss
   - circular
   Mt: 100                # Transversal magnification
-  NA: 1.35               # Numerical aperture
+  NA: 1.45               # Numerical aperture
   Na: 200                # Samples across aperture
   Po: 1.0e-05            # Laser power [W]
   W:
